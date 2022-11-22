@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android works/work2/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android works/房贷、登录APP - 副本/app/src/main/res/layout/activity_mortgage.xml" value="0.25" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/drawable/btn_nine_selector.xml" value="0.1265" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/drawable/radio_selector.xml" value="0.1265" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/drawable/shape_edit_focus.xml" value="0.1265" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/drawable/shape_edit_normal.xml" value="0.1265" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/drawable/switch_selector.xml" value="0.1265" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_act_home.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_act_jump.xml" value="0.264" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_act_next.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_act_request.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_act_response.xml" value="0.536" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_act_rotate.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_alert.xml" value="0.264" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_checkbox.xml" value="0.4" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_edit_auto.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_edit_border.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_edit_cursor.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_edit_hide.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_edit_jump.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_frame.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_login.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_login_forget.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_mortgage.xml" value="0.4" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_radio_horizontal.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_radio_vertical.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_relative_code.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_relative_xml.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_spinner_dialog.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_spinner_dropdown.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_spinner_icon.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_switch_default.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/activity_switch_ios.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/item_dropdown.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/item_select.xml" value="0.115625" />
+        <entry key="..\:/Android works/房贷、登录APP/app/src/main/res/layout/item_simple.xml" value="0.115625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
